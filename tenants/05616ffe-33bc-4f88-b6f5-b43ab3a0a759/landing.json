@@ -1,12 +1,67 @@
 {
-  "branding": { "name": "Studio Lashes", "primaryColor": "#bca49d" },
-  "hero": { "title": "Cílios perfeitos", "subtitle": "Naturalidade e segurança", "cover": "hero.jpg" },
+  "branding": {
+    "name": "Studio Lashes",
+    "primaryColor": "#bca49d"
+  },
+  "hero": {
+    "title": "Cílios perfeitos",
+    "subtitle": "Naturalidade e segurança",
+    "cover": "hero.jpg"
+  },
   "services": [
-    { "title": "Design de Sobrancelhas", "desc": "Visagismo e henna", "price": "R$ 80", "image": "servico-1.jpg" },
-    { "title": "Extensão de Cílios", "desc": "Fio a fio / Volume", "price": "R$ 180", "image": "servico-2.jpg" }
+    {
+      "title": "Design de Sobrancelhas",
+      "desc": "Visagismo e henna",
+      "price": "R$ 80",
+      "image": "servico-1.jpg"
+    },
+    {
+      "title": "Extensão de Cílios",
+      "desc": "Fio a fio / Volume",
+      "price": "R$ 180",
+      "image": "servico-2.jpg"
+    }
   ],
   "gallery": [
-    { "image": "galeria-01.jpg", "caption": "Antes e depois" }
+    {
+      "image": "galeria-01.jpg",
+      "caption": "Antes e depois"
+    },
+    {
+      "image": "galeria-02.jpg",
+      "caption": "Resultado natural"
+    }
   ],
-  "about": { "title": "Sobre mim", "text": "Profissional certificada.", "photo": "sobre.jpg" }
+  "about": {
+    "title": "Sobre mim",
+    "text": "Profissional certificada, apaixonada por realçar a beleza de cada cliente com naturalidade e técnica.",
+    "photo": "sobre.jpg"
+  },
+  "contact": {
+    "whatsapp": "5599999999999",
+    "instagram": "studio.lashes",
+    "address": "Av. Principal, 123 - Centro, Cidade/UF"
+  },
+  "testimonials": [
+    {
+      "name": "Maria Souza",
+      "text": "Amei o atendimento e o resultado, super recomendo!",
+      "photo": "cliente-1.jpg"
+    },
+    {
+      "name": "Ana Lima",
+      "text": "Cílios lindos e naturais, exatamente como eu queria.",
+      "photo": "cliente-2.jpg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quanto tempo dura a extensão de cílios?",
+      "answer": "Em média de 3 a 4 semanas, variando conforme o cuidado da cliente."
+    },
+    {
+      "question": "Posso molhar os cílios após o procedimento?",
+      "answer": "Sim, mas recomenda-se evitar água e vapor nas primeiras 24h."
+    }
+  ]
 }
