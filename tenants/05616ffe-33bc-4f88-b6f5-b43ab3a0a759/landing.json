@@ -1,10 +1,10 @@
 {
   "branding": {
-    "name": "Studio Lashes",
+    "name": "Eyelashes Studio",
     "primaryColor": "#bca49d"
   },
   "hero": {
-    "title": "Cílios perfeitos",
+    "title": "O melhor para sua beleza",
     "subtitle": "Naturalidade e segurança",
     "cover": "hero.jpg"
   },
@@ -19,7 +19,7 @@
       "title": "Extensão de Cílios",
       "desc": "Fio a fio / Volume",
       "price": "R$ 180",
-      "image": "servico-2.jpg"
+      "image": "servico-2.png"
     }
   ],
   "gallery": [
