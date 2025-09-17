@@ -1,0 +1,12 @@
+{
+  "branding": { "name": "Studio Lashes", "primaryColor": "#bca49d" },
+  "hero": { "title": "Cílios perfeitos", "subtitle": "Naturalidade e segurança", "cover": "hero.jpg" },
+  "services": [
+    { "title": "Design de Sobrancelhas", "desc": "Visagismo e henna", "price": "R$ 80", "image": "servico-1.jpg" },
+    { "title": "Extensão de Cílios", "desc": "Fio a fio / Volume", "price": "R$ 180", "image": "servico-2.jpg" }
+  ],
+  "gallery": [
+    { "image": "galeria-01.jpg", "caption": "Antes e depois" }
+  ],
+  "about": { "title": "Sobre mim", "text": "Profissional certificada.", "photo": "sobre.jpg" }
+}
