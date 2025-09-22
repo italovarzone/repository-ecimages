@@ -4,8 +4,8 @@
     "primaryColor": "#bca49d"
   },
   "hero": {
-    "title": "Livia Moraes - Lash Designer e Designer de Sobrancelhas",
-    "subtitle": "Clique no botão abaixo e agende seu horário comigo! Confira também meu Instagram para ver mais resultados incríveis.",
+    "title": "Lash Designer e Designer de Sobrancelhas",
+    "subtitle": "Confira também meu Instagram para ver mais resultados incríveis.",
     "cover": "hero.jpg"
   },
   "services": [
@@ -16,7 +16,7 @@
     },
     {
       "title": "Extensão de Cílios",
-      "desc": "Fio a fio / Fox | Brasileiro | 5d | Sirena| entre outros...",
+      "desc": "Fio a fio - Fox | Brasileiro | 5d | Sirena| entre outros...",
       "image": "servico-2.jpg"
     },
     {
