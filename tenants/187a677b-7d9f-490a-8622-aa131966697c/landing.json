@@ -1,0 +1,78 @@
+{
+  "branding": {
+    "name": "Livia Moraes",
+    "primaryColor": "#bca49d"
+  },
+  "hero": {
+    "title": "O melhor para sua beleza",
+    "subtitle": "Naturalidade e segurança",
+    "cover": "hero.jpg"
+  },
+  "services": [
+    {
+      "title": "Design de Sobrancelhas",
+      "desc": "com ou sem henna",
+      "image": "servico-1.jpg"
+    },
+    {
+      "title": "Extensão de Cílios",
+      "desc": "Fio a fio / Fox | Brasileiro | 5d | Sirena| entre outros...",
+      "image": "servico-2.jpg"
+    },
+    {
+      "title": "Lash Lifting",
+      "desc": "Elevação de cílios naturais",
+      "image": "servico-2.jpg"
+    }
+  ],
+  "gallery": [
+    {
+      "image": "galeria-01.jpg",
+      "caption": "Volume brasileiro (mais realizado)"
+    },
+    {
+      "image": "galeria-02.jpg",
+      "caption": "Efeito 5d com técnica e excelência"
+    },
+    {
+      "image": "galeria-03.jpg",
+      "caption": "Efeito sirena tamanho médio"
+    },
+    {
+      "image": "galeria-04.jpg",
+      "caption": ""
+    }
+  ],
+  "about": {
+    "title": "Sobre mim",
+    "text": "Oi, eu sou Livia Moraes! 💖 Sou apaixonada pelo universo da beleza e atuo como Lash Designer e Designer de Sobrancelhas certificada, com mais de 1 ano de experiência transformando olhares. Meu maior objetivo é valorizar a sua beleza natural, deixando seus cílios e sobrancelhas ainda mais incríveis, de um jeito que combine com você. 🌸 Cada detalhe do meu trabalho é feito com muito carinho, cuidado e dedicação, porque acredito que se sentir bem consigo mesma é essencial. Adoro acompanhar de pertinho cada resultado e ver o sorriso das minhas clientes ao se olharem no espelho. ✨ Se você também ama se cuidar e quer dar aquele up na autoestima, vou adorar cuidar do seu olhar! 💕",
+    "photo": "sobre.jpg"
+  },
+  "contact": {
+    "whatsapp": "19999679192",
+    "instagram": "liviamoraes_lash",
+    "address": "Av. Principal, 123 - Centro, Cidade/UF"
+  },
+  "testimonials": [
+    {
+      "name": "Maria Souza",
+      "text": "Amei o atendimento e o resultado, super recomendo!",
+      "photo": "cliente-1.jpg"
+    },
+    {
+      "name": "Ana Lima",
+      "text": "Cílios lindos e naturais, exatamente como eu queria.",
+      "photo": "cliente-2.jpg"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quanto tempo dura a extensão de cílios?",
+      "answer": "Em média de 3 a 4 semanas, variando conforme o cuidado da cliente."
+    },
+    {
+      "question": "Posso molhar os cílios após o procedimento?",
+      "answer": "Sim, mas recomenda-se evitar água e vapor nas primeiras 24h."
+    }
+  ]
+}
