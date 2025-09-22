@@ -4,8 +4,8 @@
     "primaryColor": "#bca49d"
   },
   "hero": {
-    "title": "O melhor para sua beleza",
-    "subtitle": "Naturalidade e segurança",
+    "title": "Livia Moraes - Lash Designer e Designer de Sobrancelhas",
+    "subtitle": "Clique no botão abaixo e agende seu horário comigo! Confira também meu Instagram para ver mais resultados incríveis.",
     "cover": "hero.jpg"
   },
   "services": [
@@ -22,7 +22,7 @@
     {
       "title": "Lash Lifting",
       "desc": "Elevação de cílios naturais",
-      "image": "servico-2.jpg"
+      "image": "servico-3.jpg"
     }
   ],
   "gallery": [
