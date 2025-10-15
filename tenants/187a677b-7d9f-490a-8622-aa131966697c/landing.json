@@ -44,8 +44,13 @@
     }
   ],
   "about": {
-    "title": "Sobre mim",
-    "text": "Oi, eu sou Livia Moraes! 💖 Sou apaixonada pelo universo da beleza e atuo como Lash Designer e Designer de Sobrancelhas certificada, com mais de 1 ano de experiência transformando olhares. Meu maior objetivo é valorizar a sua beleza natural, deixando seus cílios e sobrancelhas ainda mais incríveis, de um jeito que combine com você. 🌸 Cada detalhe do meu trabalho é feito com muito carinho, cuidado e dedicação, porque acredito que se sentir bem consigo mesma é essencial. Adoro acompanhar de pertinho cada resultado e ver o sorriso das minhas clientes ao se olharem no espelho. ✨ Se você também ama se cuidar e quer dar aquele up na autoestima, vou adorar cuidar do seu olhar! 💕",
+    "title": "Oi, eu sou Livia Moraes! 💖",
+    "text": [
+      "Sou apaixonada pelo universo da beleza e atuo como Lash Designer e Designer de Sobrancelhas certificada, com mais de 1 ano de experiência transformando olhares.",
+      "Meu maior objetivo é valorizar a sua beleza natural, deixando seus cílios e sobrancelhas ainda mais incríveis, de um jeito que combine com você. 🌸",
+      "Cada detalhe do meu trabalho é feito com muito carinho, cuidado e dedicação, porque acredito que se sentir bem consigo mesma é essencial. ✨",
+      "Se você também ama se cuidar e quer dar aquele up na autoestima, vou adorar cuidar do seu olhar! 💕"
+    ],
     "photo1": "sobre1.jpg",
     "photo2": "sobre2.jpg"
   },
